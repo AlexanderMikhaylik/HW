@@ -15,6 +15,4 @@ public class task3 {
         System.out.println("modified variable b: " +b);
 
     }
-
-
 }
