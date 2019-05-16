@@ -50,14 +50,5 @@ public class HomeWorkMay14 {
         array4[1][2] = 10f;
         System.out.println(array4[0][0]);
 
-
-
-
-
-
-
-
-
-
     }
 }
